@@ -1,9 +1,9 @@
 /*
  * @Author: Lin
  * @Date: 2021-01-30 00:59:16
- * @LastEditTime: 2021-02-03 00:02:53
+ * @LastEditTime: 2021-02-04 00:03:30
  */
-package nowcoder.hwa;
+package nowcoder.HWA;
 /**
  * 题目描述
 功能:输入一个正整数，按照从小到大的顺序输出它的所有质因子（重复的也要列举）（如180的质因子为2 2 3 3 5 ）
@@ -20,12 +20,9 @@ package nowcoder.hwa;
 2 2 3 3 5
  */
 public class HJ6 {
-    
+
     public static void main(String[] args) {
         String name = "1";
-        while(){
-
-        }
         System.out.println();
         System.out.println("1");
     }
