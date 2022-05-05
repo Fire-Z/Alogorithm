@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "string_view": "cpp",
+        "QIN.C": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "iostream": "cpp",
+        "map": "cpp",
+        "iosfwd": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "algorithm": "cpp",
+        "initializer_list": "cpp"
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        // "**/.vscode": true,
+        "**/*.exe": true,
+    }
+}
